@@ -62,3 +62,8 @@ function spinAround(turns) {
 *[Detailed textbook summary](https://www.notion.so/JavaScript-de40ed91d56a45e7b4ecc50209a994bb?pvs=4)*
 
 - Learning the basics of React through **[the official documentation](https://react.dev/learn)**
+
+---
+## My little first project
+I created this project to practice layout, CSS and HTML. It has a couple of hyperlinks and a button to go to another page. It also has some sort of adaptive layout, but since it was my first attempt, it doesn't look the way I would like it to on all devices.\
+**[You can see it here](https://github.com/sunlaa/learning-site)**
