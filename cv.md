@@ -67,3 +67,11 @@ function spinAround(turns) {
 ## My little first project
 I created this project to practice layout, CSS and HTML. It has a couple of hyperlinks and a button to go to another page. It also has some sort of adaptive layout, but since it was my first attempt, it doesn't look the way I would like it to on all devices.\
 **[You can see it here](https://github.com/sunlaa/learning-site)**
+
+---
+## Language
+- **Russian**
+- **Belarusian**
+- ### English
+  - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **B1(Intermediate)**\
+  At the moment I live in Poland and because I don't know Polish, I occasionally use English to communicate. I am learning English now through lessons, videos and self-talk with recordings.
