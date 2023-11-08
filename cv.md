@@ -53,3 +53,12 @@ function spinAround(turns) {
   return Math.floor(sum/4)
 }
 ```
+
+---
+## Training received
+- Taking micro-courses on the **Stepik** educational platform
+![courses](./pics/courses.png)
+- Learning JavaScript from Ilya Kantor's tutorial **["The Modern JavaScript Tutorial"](https://learn.javascript.ru/)**\
+*[Detailed textbook summary](https://www.notion.so/JavaScript-de40ed91d56a45e7b4ecc50209a994bb?pvs=4)*
+
+- Learning the basics of React through **[the official documentation](https://react.dev/learn)**
