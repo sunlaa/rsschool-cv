@@ -9,3 +9,7 @@
 👋**Telegram:** @sunlaa\
 🔮**Discord:** @sunlaa\
 💾**GitHub:** [sunlaa](https://github.com/sunlaa)
+
+---
+## Brief information about me
+I am 20 years old and by now I have been studying web technologies for about 1.5 years. I got interested in programming at school. I always liked solving math problems, finding new solutions on my own, and being happy when everything worked out. All this is possible in turn due to my analytical mind. In addition, my strengths include attentiveness, calmness and immersion in what I do. My goal is to gain knowledge and use it to develop myself. 
