@@ -55,19 +55,19 @@ function spinAround(turns) {
 ---
 ## Training received
 - Taking micro-courses on the **Stepik** educational platform
-- Learning JavaScript from Ilya Kantor's tutorial **["The Modern JavaScript Tutorial"](https://learn.javascript.ru/)**\
+- Learning JavaScript from Ilya Kantor's tutorial **["The Modern JavaScript Tutorial"](https://learn.javascript.ru/)**
 - Learning the basics of React through **[the official documentation](https://react.dev/learn)**
 
 ---
 ## My projects
-**[Coffee-house](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/coffee-house/home.html)**
-**[Nonograms](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/nonograms/)**
-**[Hangman](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/hangman/)**
+**[Coffee-house](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/coffee-house/home.html)**  
+**[Nonograms](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/nonograms/)**  
+**[Hangman](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/hangman/)**  
 
 ---
 ## Language
 - **Russian**
 - **Belarusian**
-- ### English
+- **English**
   - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **B1(Intermediate)**\
   At the moment I live in Poland and I use English to communicate. I am learning English now through lessons, videos and self-talk with recordings.
