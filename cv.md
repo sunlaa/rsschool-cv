@@ -12,7 +12,7 @@
 
 ---
 ## Brief information about me
-I am 20 years old and by now I have been studying web technologies for about 1.5 years. I got interested in programming at school. I always liked solving math problems, finding new solutions on my own, and being happy when everything worked out. All this is possible in turn due to my analytical mind. In addition, my strengths include attentiveness, calmness and immersion in what I do. My goal is to gain knowledge and use it to develop myself. 
+I am 20 years old and by now I have been studying web technologies for about 1.5 years. I got interested in programming at school. I always liked solving math problems, finding new solutions on my own, and being happy when everything worked out. In addition, my strengths include attentiveness, calmness and immersion in what I do. My goal is to gain knowledge and use it to develop myself. 
 
 
 ---
@@ -21,8 +21,6 @@ I am 20 years old and by now I have been studying web technologies for about 1.5
 - JavaScript
 - React (basics)
 - Git, GitHub
-- Visual Studio Code
-- Mac OS, Windows OS
 
 ---
 ## Code example
@@ -57,16 +55,14 @@ function spinAround(turns) {
 ---
 ## Training received
 - Taking micro-courses on the **Stepik** educational platform
-![courses](./pics/courses.png)
 - Learning JavaScript from Ilya Kantor's tutorial **["The Modern JavaScript Tutorial"](https://learn.javascript.ru/)**\
-*[Detailed textbook summary](https://www.notion.so/JavaScript-de40ed91d56a45e7b4ecc50209a994bb?pvs=4)*
-
 - Learning the basics of React through **[the official documentation](https://react.dev/learn)**
 
 ---
-## My little first project
-I created this project to practice layout, CSS and HTML. It has a couple of hyperlinks and a button to go to another page. It also has some sort of adaptive layout, but since it was my first attempt, it doesn't look the way I would like it to on all devices.\
-**[You can see it here](https://github.com/sunlaa/learning-site)**
+## My projects
+**[Coffee-house](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/coffee-house/home.html)**
+**[Nonograms](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/nonograms/)**
+**[Hangman](https://rolling-scopes-school.github.io/sunlaa-JSFE2023Q4/hangman/)**
 
 ---
 ## Language
@@ -74,4 +70,4 @@ I created this project to practice layout, CSS and HTML. It has a couple of hype
 - **Belarusian**
 - ### English
   - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **B1(Intermediate)**\
-  At the moment I live in Poland and because I don't know Polish, I occasionally use English to communicate. I am learning English now through lessons, videos and self-talk with recordings.
+  At the moment I live in Poland and I use English to communicate. I am learning English now through lessons, videos and self-talk with recordings.
